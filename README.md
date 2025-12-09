@@ -11,6 +11,8 @@ This project builds a **hybrid deep learning model** to predict the **weekly clo
 - Technical indicators (RSI, MACD, moving averages, momentum)
 - Financial news sentiment embeddings (via pre-trained **FinBERT-Tone**)
 
+**Note:** Free tier of Finnhub limits to 1-year of historical news information.  Expect that paid tier version would have improved performance.
+
 The model uses a **CNN-GRU** architecture and outputs both a point prediction and a probabilistic forecast via Monte Carlo simulation.
 
 ### Key Results
