@@ -1,7 +1,4 @@
 # Stock Market Prediction Using Deep Learning Techniques  
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?logo=github)](https://github.com/austinnthompson/Stock-Market-Prediction-Using-Deep-Learning-Techniques)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Latest-orange)](https://pytorch.org/)
 
 ## Live Prediction Example (as of December 5, 2025)
 - **Model predicted SPY closing price:** `$685.84`  
